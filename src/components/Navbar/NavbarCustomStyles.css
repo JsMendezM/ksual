@@ -1,0 +1,12 @@
+.brand-group {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-slogan {
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+  line-height: 1;
+  letter-spacing: 0.5px;
+}
